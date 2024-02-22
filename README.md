@@ -1,6 +1,14 @@
-![Eway Bill API Integration Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Eway Bill API Integration simplifies the tax compliance process for businesses in India. With our tool, you can generate Eway bills efficiently and manage your tax compliance documents effectively. Explore the [Documentation](https://empress.eco/), [Report a Bug](https://github.com/empress-eco/eway_bill/issues) or [Request a Feature](https://github.com/empress-eco/eway_bill/issues) to enhance your experience.
+
+</div>
+
+
+
 
 ## About Eway Bill API Integration
 Eway Bill API Integration is designed to help businesses in India streamline their tax compliance process. It provides a seamless interface for generating Eway bills, a mandatory document for transporting goods in India. 
